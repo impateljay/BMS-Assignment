@@ -3,7 +3,7 @@
     <string name="thumbnail">Thumbnail</string>
     <string name="retweet_icon">Retweet Icon</string>
     <string name="like_icon">Like Icon</string>
-    <string name="no_results">No Results</string>
+    <string name="instruction">Use above search box to search tweets</string>
     <string name="newest">Newest</string>
     <string name="popular">Popular</string>
 </resources>

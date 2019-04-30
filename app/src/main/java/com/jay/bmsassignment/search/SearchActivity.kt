@@ -83,7 +83,7 @@ class SearchActivity : AppCompatActivity(), SearchView {
     }
 
     override fun changeNoRecordsVisibility(visibility: Int) {
-        textview_no_records.visibility = visibility
+        textview_instruction.visibility = visibility
     }
 
     override fun searchViewPadding(paddingLeft: Int, paddingTop: Int, paddingRight: Int, paddingBottom: Int) {
